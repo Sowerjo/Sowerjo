@@ -106,23 +106,13 @@ Meu foco é atuar em Tecnologia da Informação com visão prática de operaçã
 
 Repositórios organizados como portfólio técnico, reunindo documentações, comandos, scripts, procedimentos e estudos práticos voltados para ambientes corporativos de TI.
 
-> Todos os conteúdos publicados devem estar sem dados sensíveis, utilizando nomes, IPs, domínios, usuários e ambientes fictícios sempre que necessário.
-
 ### ⛏️ Comandos HiveOS SW
-
-Documentação técnica com comandos, procedimentos e anotações voltadas para configuração, consulta e suporte em ambiente HiveOS/SW, servindo como base de apoio para troubleshooting e padronização operacional.
-
-**Conteúdos:** comandos técnicos, configuração, consulta de ambiente, suporte operacional e troubleshooting.
 
 **Repositório:** [Comandos-HiveOS-sw](https://github.com/Sowerjo/Comandos-HiveOS-sw)
 
 ---
 
 ### 📡 Scripts Config AP, Controller e Switches Extreme
-
-Repositório com scripts, documentações e procedimentos voltados para configuração de access points, controllers e switches Extreme, apoiando rotinas de implantação, padronização e suporte em redes corporativas.
-
-**Conteúdos:** Extreme Networks, APs, controllers, switches, configuração, documentação técnica e troubleshooting de rede.
 
 **Repositório:** [Scripts-config-AP-CONTROLLER-SWITCHES-EXTREME](https://github.com/Sowerjo/Scripts-config-AP-CONTROLLER-SWITCHES-EXTREME)
 
