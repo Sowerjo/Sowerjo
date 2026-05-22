@@ -1,58 +1,55 @@
-# 👋 Olá
+# 👋 Olá, eu sou Joel Silva
 
-Profissional de TI com 8 anos de experiência em suporte técnico, infraestrutura, redes, wireless, Microsoft 365, administração de ambientes corporativos, automação Android, AIDC, pré-vendas técnica e vivência pontual em desenvolvimento de sistemas internos.
+Sou profissional de TI com 8 anos de experiência em suporte técnico, infraestrutura, redes, wireless, Microsoft 365, pré-vendas técnica e soluções AIDC.
 
-Atuo na sustentação de ambientes corporativos, apoiando usuários, administrando acessos, contas, e-mails, permissões, grupos, licenças, SharePoint, Teams, OneDrive e rotinas do Microsoft 365.
+Atuo na sustentação de ambientes corporativos, com foco em suporte a usuários, administração de contas, e-mails, permissões, grupos, licenças, SharePoint, Teams, OneDrive e rotinas do Microsoft 365.
 
-Também tenho experiência com preparação de notebooks e estações, manutenção de equipamentos, configuração de dispositivos, troubleshooting, documentação técnica, suporte a coletores de dados, scanners, impressoras e equipamentos utilizados em operação. Em um período da minha atuação, também participei da criação de sistemas internos e de rotinas em Android voltadas para apoio operacional.
+Tenho experiência prática com preparação de notebooks e estações, manutenção de equipamentos, configuração de dispositivos, troubleshooting, apoio à operação interna e documentação de procedimentos técnicos.
 
-Meu foco é atuar em Tecnologia da Informação com visão prática de suporte, infraestrutura, Microsoft 365, Azure/Entra ID, redes, wireless, automação Android, AIDC e melhoria de processos operacionais.
+Também atuo com infraestrutura e redes, incluindo análise de conectividade, configuração de equipamentos, suporte wireless, site survey, análise de sinal, dimensionamento de access points e apoio em projetos de implantação.
 
+Na área de AIDC, tenho vivência com coletores de dados, scanners, impressoras, equipamentos Zebra/Symbol, configuração de dispositivos Android corporativos, testes, homologações, levantamento de part numbers, comparativos técnicos e apoio à pré-vendas.
+
+Meu foco é atuar em Tecnologia da Informação com visão prática de operação, suporte, infraestrutura, Microsoft 365, redes, wireless, automação Android e melhoria de processos.
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Azure Portal](https://img.shields.io/badge/Azure%20Portal-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20Portal-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Exchange Admin](https://img.shields.io/badge/Exchange%20Admin-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
 ![Teams Admin](https://img.shields.io/badge/Teams%20Admin-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
-![Android Automation](https://img.shields.io/badge/Android%20Automation-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Development](https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Internal Systems](https://img.shields.io/badge/Internal%20Systems-555555?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android%20Automation-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge)
 ![Wireless](https://img.shields.io/badge/Wireless-00AEEF?style=for-the-badge)
 ![H3C](https://img.shields.io/badge/H3C-Switching-red?style=for-the-badge)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-333333?style=for-the-badge)
 ![AIDC](https://img.shields.io/badge/AIDC-0052CC?style=for-the-badge)
-![Zebra](https://img.shields.io/badge/Zebra-Technologies-black?style=for-the-badge)
 ![Pre--Sales](https://img.shields.io/badge/Pre--Sales-6A1B9A?style=for-the-badge)
-
 ---
 
 ## 🚀 Foco atual
 
 - Administração de Microsoft 365
-- Gerenciamento de usuários, grupos, permissões e licenças
-- Apoio em Azure Portal e Entra ID
-- Exchange Admin Center e rotinas de e-mail corporativo
-- Teams Admin Center, SharePoint, OneDrive e Outlook
+- Gerenciamento de usuários, grupos e permissões
+- Administração de painel Azure e Entra ID
+- Exchange Admin Center
+- Teams Admin Center
+- SharePoint e OneDrive
 - Suporte técnico corporativo
-- Preparação e manutenção de notebooks e estações
-- Redes, switches, wireless e troubleshooting
-- Site survey passivo e ativo com mapas de calor
+- Infraestrutura de redes
+- Projetos wireless
+- Troubleshooting de conectividade
 - Automação de rotinas em dispositivos Android
-- Vivência pontual com programação Android aplicada à operação
-- Apoio na criação de sistemas internos para uso corporativo
 - Configuração e padronização de coletores Android
-- Suporte a equipamentos AIDC
-- Documentação técnica e melhoria de processos de TI
+- Pré-vendas técnica AIDC
+- Documentação e melhoria de processos de TI
 
 ---
 
@@ -60,115 +57,116 @@ Meu foco é atuar em Tecnologia da Informação com visão prática de suporte, 
 
 ### Microsoft 365, Azure e administração corporativa
 
-- Administração de usuários, contas, grupos e permissões
-- Gerenciamento e apoio em licenças Microsoft 365
-- Criação, ajuste e suporte a e-mails corporativos
-- Apoio em regras, direcionamentos e permissões de caixas de e-mail
-- Suporte a Outlook, Exchange, Teams, SharePoint e OneDrive
-- Apoio em rotinas de Azure Portal e Entra ID
-- Organização de acessos para novos colaboradores
-- Troubleshooting de autenticação, acesso e permissões
-- Documentação de procedimentos administrativos e operacionais
-
-### Suporte técnico e operação de TI
-
-- Atendimento a usuários e resolução de incidentes
-- Preparação, formatação e manutenção de máquinas
-- Instalação, configuração e validação de softwares
-- Configuração de notebooks, estações e periféricos
-- Diagnóstico de falhas em equipamentos e aplicações
-- Apoio à operação diária do ambiente de TI
-- Registro, acompanhamento e finalização de ocorrências
-- Padronização e documentação de procedimentos técnicos
-
 ### Android, coletores e automação operacional
 
 - Configuração e manutenção de dispositivos Android corporativos
-- Preparação e padronização de coletores de dados
+- Apoio na preparação e padronização de coletores de dados
 - Automação de rotinas operacionais em dispositivos Android
-- Vivência pontual com programação Android para apoio a processos internos
-- Apoio na criação de sistemas internos voltados à operação da empresa
-- Uso de ADB para apoio em configuração, testes e validações
 - Instalação, configuração e validação de aplicativos corporativos
-- Suporte a coletores, scanners, impressoras e dispositivos móveis
-- Apoio em equipamentos Zebra, Symbol e soluções AIDC
+- Apoio em ambientes AIDC com coletores, scanners e dispositivos móveis
 - Troubleshooting de conectividade, aplicativos e comunicação com sistemas
-- Homologação, testes e validação de equipamentos para operação
+- Documentação de procedimentos para configuração e suporte de dispositivos móveis
+
+### Suporte e operação de TI
+
+- Suporte técnico a usuários
+- Manutenção de máquinas
+- Formatação e preparação de estações
+- Instalação e configuração de softwares
+- Apoio à operação diária do ambiente de TI
+- Atendimento e resolução de incidentes
+- Manutenção de coletores de dados
+- Organização e documentação de procedimentos técnicos
 
 ### Redes, infraestrutura e wireless
 
 - Site survey passivo e ativo
 - Criação e análise de mapas de calor
-- Análise de sinal, cobertura, interferência e pontos de sombra
 - Projetos wireless ponta a ponta
 - Dimensionamento de access points
 - Análise de topologia de rede
-- Dimensionamento de switches e distribuição de equipamentos
+- Dimensionamento de switches
 - Configuração e implantação de switches H3C
-- Troubleshooting de rede e conectividade
-- Análise de pacotes para diagnóstico técnico
-- Apoio em validação e implantação de infraestrutura
+- Troubleshooting de rede
+- Análise de pacotes
+- Diagnóstico de problemas de conectividade
 
-### AIDC e pré-vendas técnica
+### Pré-vendas técnica
 
 - Levantamento de necessidade técnica
-- Apoio em propostas, comparativos e especificações
-- Indicação de equipamentos conforme cenário operacional
-- Escolha de coletores, scanners, impressoras, acessórios e suprimentos
-- Validação de modelos, part numbers e compatibilidade
+- Apoio em propostas e comparativos
+- Indicação de equipamentos conforme cenário
+- Análise de custo-benefício
+- Escolha de coletores, scanners, impressoras e acessórios
 - Apoio técnico entre comercial, operação e cliente
-- Análise de custo-benefício, segurança e escalabilidade
-- Orientação técnica para homologação e implantação de soluções
 
 ---
 
-## 📌 Projetos e documentações em destaque
+## 📂 Portfólios técnicos
 
-### 🧾 Microsoft 365 Admin Notes
+Repositórios organizados como portfólio técnico, reunindo documentações, comandos, scripts, procedimentos e estudos práticos voltados para ambientes corporativos de TI.
 
-Procedimentos e anotações técnicas para administração de usuários, grupos, licenças, permissões, e-mails, Teams, SharePoint, OneDrive e rotinas de suporte em ambiente Microsoft 365.
+> Todos os conteúdos publicados devem estar sem dados sensíveis, utilizando nomes, IPs, domínios, usuários e ambientes fictícios sempre que necessário.
 
-**Tecnologias:** Microsoft 365, Azure Portal, Entra ID, Exchange, Teams, SharePoint, OneDrive
+### ⛏️ Comandos HiveOS SW
+
+Documentação técnica com comandos, procedimentos e anotações voltadas para configuração, consulta e suporte em ambiente HiveOS/SW, servindo como base de apoio para troubleshooting e padronização operacional.
+
+**Conteúdos:** comandos técnicos, configuração, consulta de ambiente, suporte operacional e troubleshooting.
+
+**Repositório:** [Comandos-HiveOS-sw](https://github.com/Sowerjo/Comandos-HiveOS-sw)
 
 ---
 
-### 🤖 Android Automation IT Ops
+### 📡 Scripts Config AP, Controller e Switches Extreme
 
-Estudos, comandos, procedimentos e automações voltadas para configuração, suporte e padronização de dispositivos Android corporativos, incluindo coletores de dados e equipamentos utilizados em operação. Também contempla vivências pontuais com programação Android aplicada a rotinas internas.
+Repositório com scripts, documentações e procedimentos voltados para configuração de access points, controllers e switches Extreme, apoiando rotinas de implantação, padronização e suporte em redes corporativas.
 
-**Tecnologias:** Android, ADB, Automação, AIDC, Suporte Técnico
+**Conteúdos:** Extreme Networks, APs, controllers, switches, configuração, documentação técnica e troubleshooting de rede.
+
+**Repositório:** [Scripts-config-AP-CONTROLLER-SWITCHES-EXTREME](https://github.com/Sowerjo/Scripts-config-AP-CONTROLLER-SWITCHES-EXTREME)
+
+---
+
+## 📌 Projetos em destaque
+
+### 🧾 Documentação de Rotinas Microsoft 365
+
+Modelos e procedimentos para administração de usuários, grupos, licenças, permissões e suporte em ambiente Microsoft 365.
+
+**Tecnologias:** Microsoft 365, Azure Portal, Entra ID, Exchange, Teams
 
 ---
 
 ### 📡 Wireless Site Survey Docs
 
-Documentação técnica para projetos wireless, análise de cobertura, mapas de calor, dimensionamento de access points, recomendações de implantação e validação de ambiente.
+Documentação técnica e modelos de relatório para projetos wireless, incluindo análise de cobertura, mapas de calor, recomendações de APs e boas práticas de implantação.
 
-**Tecnologias:** Redes, Wireless, Site Survey, H3C, Switches, Troubleshooting
+**Tecnologias:** Redes, Wireless, Site Survey, H3C, HP, Comware firmware, extreme CloudIQ, CloudNet
 
 ---
 
 ### 🌐 Network Troubleshooting Notes
 
-Anotações, comandos e procedimentos para diagnóstico de problemas de rede, conectividade, switches, VLANs, Wi-Fi, comunicação entre equipamentos e análise de pacotes.
+Anotações, comandos e procedimentos para diagnóstico de problemas de rede, conectividade, switches, VLANs, Wi-Fi e análise de pacotes.
 
-**Tecnologias:** Redes, Switching, Wireless, Troubleshooting, Packet Analysis
+**Tecnologias:** Redes, Switching, Troubleshooting
 
 ---
 
 ### 🧰 IT Support Knowledge Base
 
-Base de conhecimento com procedimentos de suporte técnico, manutenção de máquinas, configuração de equipamentos, resolução de incidentes, preparação de estações, boas práticas de atendimento e apoio à criação de soluções internas para a operação.
+Base de conhecimento com procedimentos de suporte técnico, manutenção de máquinas, configuração de equipamentos, resolução de incidentes e boas práticas de atendimento.
 
-**Tecnologias:** Suporte Técnico, Windows, Microsoft 365, Documentação Técnica
+**Tecnologias:** Suporte Técnico, Windows, Microsoft 365, Documentação
 
 ---
 
 ### 📦 AIDC Presales Guide
 
-Material técnico voltado à pré-vendas AIDC, com orientações para escolha de coletores, scanners, impressoras, acessórios e soluções conforme necessidade operacional.
+Material técnico voltado à pré-vendas AIDC, com orientações para escolha de coletores, scanners e soluções conforme necessidade operacional.
 
-**Tecnologias:** AIDC, Pré-vendas, Coletores, Scanners, Impressoras, Soluções Corporativas
+**Tecnologias:** AIDC, Pré-vendas, Coletores, Scanners, Soluções Corporativas
 
 ---
 
@@ -183,16 +181,13 @@ Material técnico voltado à pré-vendas AIDC, com orientações para escolha de
 - Administração de ambientes corporativos
 - Redes wireless
 - Troubleshooting avançado
-- Automação Android aplicada à operação de TI
-- Programação Android voltada a rotinas corporativas
-- Criação de sistemas internos para apoio à operação
 - Documentação técnica
-- Melhoria de processos de suporte e infraestrutura
+- Automação de rotinas de TI
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Busco oportunidades na área de Tecnologia da Informação, com foco em suporte técnico, infraestrutura, administração de ambientes Microsoft 365/Azure, redes, wireless, automação Android, AIDC, troubleshooting e melhoria de processos.
+Busco oportunidades na área de Tecnologia da Informação, com foco em suporte técnico, infraestrutura, administração de ambientes Microsoft 365/Azure, redes, wireless, troubleshooting.
 
-Meu objetivo é atuar em ambientes corporativos onde eu possa contribuir com minha experiência em operação de TI, suporte, administração de ferramentas Microsoft, redes, dispositivos móveis corporativos, automações, sistemas internos e implantação de soluções técnicas alinhadas à necessidade do negócio.
+Meu objetivo é atuar em ambientes corporativos onde eu possa contribuir com minha experiência em operação de TI, redes, suporte, administração de ferramentas Microsoft e implantação de soluções técnicas alinhadas à necessidade do negócio.
