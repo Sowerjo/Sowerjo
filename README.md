@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Joel Silva
+# 👋 Olá
 
 Profissional de TI com 8 anos de experiência em suporte técnico, infraestrutura, redes, wireless, Microsoft 365, administração de ambientes corporativos, automação Android, AIDC, pré-vendas técnica e vivência pontual em desenvolvimento de sistemas internos.
 
